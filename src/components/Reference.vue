@@ -12,6 +12,6 @@
 <script setup lang="ts">
 const profileUrls = {
     linkedIn: 'https://linkedin.com/in/dávid-cseresznyés-623085287',
-    github: 'https://github.com/cseri502'
+    github: 'https://github.com/cseri502/password-generator'
 }
 </script>
